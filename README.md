@@ -2,8 +2,8 @@
 
 ## What Is It
 ### KMP_algorithm.c
-### * * It finds where small text occurs in large text. 
-*transpose_of_matrix.c
+#### It finds where small text occurs in large text. 
+* transpose_of_matrix.c
 * * Gets the transpose of the static matrix.
 * smallest_way.c
 * * Returns the smallest path from a to b.
